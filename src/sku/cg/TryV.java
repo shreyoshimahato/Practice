@@ -10,7 +10,7 @@ public class TryV {
 		String str="sopholua";
 		System.out.println(str);
 		System.out.println("hello");
-		int a = 10;
+		int a = 8;
 		int b = 10;
 		System.out.println(a * b);
 		String str1 = "tere";
