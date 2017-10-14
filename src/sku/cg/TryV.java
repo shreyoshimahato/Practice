@@ -3,8 +3,8 @@ package sku.cg;
 public class TryV {
 
 	public static void main(String[] args) {
-		String str="tata";
-		System.out.println(str);
+		String str1="tata";
+		System.out.println(str1);
 		//
 		System.out.println("hello");
 		int a=9;
