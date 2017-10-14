@@ -10,9 +10,9 @@ public class TryV {
 		String str="sopholua";
 		System.out.println(str);
 		System.out.println("hello");
-		int a = 9;
+		int a = 10;
 		int b = 10;
-		System.out.println(a + b);
+		System.out.println(a * b);
 		String str1 = "tere";
 		System.out.println(str1);
 	}
