@@ -10,7 +10,6 @@ public class TryV {
 		String str="sopholua";
 		System.out.println(str);
 		System.out.println("hello");
-
 		int a = 9;
 		int b = 10;
 		System.out.println(a + b);
