@@ -15,6 +15,7 @@ public class TryV {
 		System.out.println(a * b);
 		String str1 = "tere";
 		System.out.println(str1);
+
 	}
 
 }
